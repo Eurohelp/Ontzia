@@ -1,0 +1,571 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:gn="http://www.geonames.org/ontology#"
+    xmlns:DUL="http://www.loa-cnr.it/ontologies/DUL.owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+    xmlns:ssn="http://purl.oclc.org/NET/ssnx/ssn#" > 
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d9f1bdf8e72b7b0512f6c/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.94</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dbb3bdf8e72b7b0512fab/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dc94bdf8e72b7b0512fcd/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.37</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dbb3bdf8e72b7b0512fab/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">40.75</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dc94bdf8e72b7b0512fcd/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.29</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e39cbdf8e72b7b05130ae/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.7</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e55ebdf8e72b7b05130ed/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ee28bdf8e72b7b051319b/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d74ebdf8e72b7b0512f0b/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.6</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e801cdf8e72b7b051314e/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">49.99</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e720bdf8e72b7b051312c/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.16</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e9c3ddf8e72b7b0513184/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">72.92</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d74ebdf8e72b7b0512f0b/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.54</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d58cbdf8e72b7b0512ecc/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">77.98</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d4abbdf8e72b7b0512eaa">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T09:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d4abbdf8e72b7b0512eaa/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d4abbdf8e72b7b0512eaa/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d4abbdf8e72b7b0512eaa/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583dbb3bdf8e72b7b0512fab">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T17:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dbb3bdf8e72b7b0512fab/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dbb3bdf8e72b7b0512fab/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dbb3bdf8e72b7b0512fab/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e47dbdf8e72b7b05130cb/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.64</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583dc94bdf8e72b7b0512fcd">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T18:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dc94bdf8e72b7b0512fcd/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dc94bdf8e72b7b0512fcd/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dc94bdf8e72b7b0512fcd/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e63fbdf8e72b7b051310f/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.86</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583eaa4fdf8e72b7b0513198/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d9f1bdf8e72b7b0512f6c">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T15:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d9f1bdf8e72b7b0512f6c/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d9f1bdf8e72b7b0512f6c/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d9f1bdf8e72b7b0512f6c/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d4abbdf8e72b7b0512eaa/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.29</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d58cbdf8e72b7b0512ecc/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.94</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583ee28bdf8e72b7b051319b">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T14:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ee28bdf8e72b7b051319b/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ee28bdf8e72b7b051319b/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ee28bdf8e72b7b051319b/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e39cbdf8e72b7b05130ae/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ec66bdf8e72b7b0513199/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.72</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e8f40df8e72b7b051316c">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T08:35:12Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e8f40df8e72b7b051316c/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e8f40df8e72b7b051316c/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e8f40df8e72b7b051316c/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e801cdf8e72b7b051314e/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.99</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d66dbdf8e72b7b0512ee9/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">73.33</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ee28bdf8e72b7b051319b/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.72</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d82fbdf8e72b7b0512f28/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.79</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d910bdf8e72b7b0512f4a">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T14:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d910bdf8e72b7b0512f4a/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d910bdf8e72b7b0512f4a/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d910bdf8e72b7b0512f4a/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d66dbdf8e72b7b0512ee9">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T11:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d66dbdf8e72b7b0512ee9/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d66dbdf8e72b7b0512ee9/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d66dbdf8e72b7b0512ee9/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ed47bdf8e72b7b051319a/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.72</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d82fbdf8e72b7b0512f28/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.54</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e47dbdf8e72b7b05130cb/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e63fbdf8e72b7b051310f/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.32</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e801cdf8e72b7b051314e">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T07:30:36Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e801cdf8e72b7b051314e/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e801cdf8e72b7b051314e/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e801cdf8e72b7b051314e/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e63fbdf8e72b7b051310f/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ed47bdf8e72b7b051319a/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d82fbdf8e72b7b0512f28/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.42</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583eaa4fdf8e72b7b0513198">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T10:30:39Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583eaa4fdf8e72b7b0513198/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583eaa4fdf8e72b7b0513198/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583eaa4fdf8e72b7b0513198/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dad2bdf8e72b7b0512f89/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">57.67</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d82fbdf8e72b7b0512f28">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T13:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d82fbdf8e72b7b0512f28/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d82fbdf8e72b7b0512f28/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d82fbdf8e72b7b0512f28/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dd75bdf8e72b7b0512fe2/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.3</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e8f40df8e72b7b051316c/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">69.89</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d4abbdf8e72b7b0512eaa/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">43.69</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e63fbdf8e72b7b051310f">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T05:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e63fbdf8e72b7b051310f/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e63fbdf8e72b7b051310f/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e63fbdf8e72b7b051310f/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d74ebdf8e72b7b0512f0b">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T12:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d74ebdf8e72b7b0512f0b/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d74ebdf8e72b7b0512f0b/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d74ebdf8e72b7b0512f0b/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d910bdf8e72b7b0512f4a/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.65</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Point/101">
+    <rdf:type rdf:resource="http://www.w3.org/2003/01/geo/wgs84_pos#Point"/>
+    <geo:long>-2.95172</geo:long>
+    <geo:lat>43.26708</geo:lat>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e720bdf8e72b7b051312c">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T06:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e720bdf8e72b7b051312c/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e720bdf8e72b7b051312c/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e720bdf8e72b7b051312c/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d910bdf8e72b7b0512f4a/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.9</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ec66bdf8e72b7b0513199/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dbb3bdf8e72b7b0512fab/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">45.12</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e55ebdf8e72b7b05130ed">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T04:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e55ebdf8e72b7b05130ed/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e55ebdf8e72b7b05130ed/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e55ebdf8e72b7b05130ed/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ee28bdf8e72b7b051319b/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dad2bdf8e72b7b0512f89/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.25</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d74ebdf8e72b7b0512f0b/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">71.3</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583dd75bdf8e72b7b0512fe2">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T19:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dd75bdf8e72b7b0512fe2/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dd75bdf8e72b7b0512fe2/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dd75bdf8e72b7b0512fe2/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d58cbdf8e72b7b0512ecc/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.61</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e55ebdf8e72b7b05130ed/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.38</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dd75bdf8e72b7b0512fe2/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.96</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e8f40df8e72b7b051316c/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.71</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e47dbdf8e72b7b05130cb">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T03:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e47dbdf8e72b7b05130cb/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e47dbdf8e72b7b05130cb/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e47dbdf8e72b7b05130cb/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d9f1bdf8e72b7b0512f6c/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">23.61</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Sensor/101">
+    <geo:location rdf:resource="http://hirira.eus/hirira/Point/101"/>
+    <rdfs:label xml:lang="es">Test1</rdfs:label>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Sensor"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e720bdf8e72b7b051312c/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.12</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583ed47bdf8e72b7b051319a">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T13:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ed47bdf8e72b7b051319a/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ed47bdf8e72b7b051319a/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ed47bdf8e72b7b051319a/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583d58cbdf8e72b7b0512ecc">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T10:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d58cbdf8e72b7b0512ecc/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d58cbdf8e72b7b0512ecc/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583d58cbdf8e72b7b0512ecc/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d66dbdf8e72b7b0512ee9/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">22.25</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e47dbdf8e72b7b05130cb/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">18.51</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583dad2bdf8e72b7b0512f89">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-29T16:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dad2bdf8e72b7b0512f89/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dad2bdf8e72b7b0512f89/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583dad2bdf8e72b7b0512f89/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e720bdf8e72b7b051312c/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.0</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e9c3ddf8e72b7b0513184/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.43</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e39cbdf8e72b7b05130ae">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T02:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e39cbdf8e72b7b05130ae/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e39cbdf8e72b7b05130ae/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e39cbdf8e72b7b05130ae/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583ef09bdf8e72b7b051319c">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T15:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ef09bdf8e72b7b051319c/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ef09bdf8e72b7b051319c/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ef09bdf8e72b7b051319c/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dd75bdf8e72b7b0512fe2/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.37</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ed47bdf8e72b7b051319a/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ef09bdf8e72b7b051319c/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.72</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d910bdf8e72b7b0512f4a/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">84.84</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d4abbdf8e72b7b0512eaa/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">76.32</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e9c3ddf8e72b7b0513184/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.54</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ef09bdf8e72b7b051319c/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583eaa4fdf8e72b7b0513198/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dad2bdf8e72b7b0512f89/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">39.49</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583e9c3ddf8e72b7b0513184">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T09:30:37Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e9c3ddf8e72b7b0513184/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e9c3ddf8e72b7b0513184/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583e9c3ddf8e72b7b0513184/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e39cbdf8e72b7b05130ae/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.43</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ec66bdf8e72b7b0513199/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d9f1bdf8e72b7b0512f6c/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.38</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e55ebdf8e72b7b05130ed/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">41.1</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Observation/583ec66bdf8e72b7b0513199">
+    <ssn:observationSamplingTime rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2016-11-30T12:30:35Z</ssn:observationSamplingTime>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ec66bdf8e72b7b0513199/Lig"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ec66bdf8e72b7b0513199/Hum"/>
+    <ssn:observationResult rdf:resource="http://hirira.eus/hirira/Measure/583ec66bdf8e72b7b0513199/Temp"/>
+    <ssn:observedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <rdf:type rdf:resource="http://purl.oclc.org/NET/ssnx/ssn#Observation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583d66dbdf8e72b7b0512ee9/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">44.66</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583eaa4fdf8e72b7b0513198/Lig">
+    <ssn:observedProperty>http://purl.oclc.org/NET/muo/ucum/physical-quality/illuminance</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">81.72</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e801cdf8e72b7b051314e/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">19.09</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583ef09bdf8e72b7b051319c/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">21.93</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583e8f40df8e72b7b051316c/Temp">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/TemperatureAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">20.64</ssn:hasValue>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://hirira.eus/hirira/Measure/583dc94bdf8e72b7b0512fcd/Hum">
+    <ssn:observedProperty>http://aemet.linkeddata.es/ontology/HumidityAmbientProperty</ssn:observedProperty>
+    <ssn:isProducedBy rdf:resource="http://hirira.eus/hirira/Sensor/101"/>
+    <ssn:hasValue rdf:datatype="http://www.w3.org/2001/XMLSchema#double">42.14</ssn:hasValue>
+  </rdf:Description>
+</rdf:RDF>

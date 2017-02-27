@@ -1,0 +1,35 @@
+PREFIX base: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/>
+PREFIX contenedor: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/contenedor/>
+PREFIX observacion: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/observacion/>
+PREFIX medicion: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/medicion/>
+PREFIX ssn: <http://purl.oclc.org/NET/ssnx/ssn#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+
+# "id_contenedor"
+contenedor:58 a ssn:SensingDevice .
+
+# observacion: id contenedor + fecha
+# las mediciones individuales se obtienen juntando el id observacion con la medicion
+observacion:58-2015-10-01 a ssn:Observation ; 
+	ssn:observedBy contenedor:58 ;
+	ssn:observationSamplingTime	"2014-03-01"^^xsd:date ;
+	ssn:observationResult observacion:58-2015-10-01-num_kg_depositado ;
+	ssn:observationResult observacion:58-2015-10-01-num_m3_depositado ;
+	ssn:observationResult observacion:58-2015-10-01-num_nivel_llenado ;
+	ssn:observationResult observacion:58-2015-10-01-num_aperturas ;
+	ssn:observationResult observacion:58-2015-10-01-num_nivel_bateria .
+
+observacion:58-2015-10-01-num_kg_depositado ssn:hasValue "3.250"^^xsd:double ;
+	a medicion:num_kg_depositado .
+
+observacion:58-2015-10-01-num_m3_depositado ssn:hasValue "1.008"^^xsd:int ;
+	a medicion:num_m3_depositado .
+
+observacion:58-2015-10-01-num_nivel_llenado ssn:hasValue "45"^^xsd:int ;
+	a medicion:num_nivel_llenado .
+
+observacion:58-2015-10-01-num_aperturas ssn:hasValue "947"^^xsd:double ;
+	a medicion:num_aperturas .
+
+observacion:58-2015-10-01-num_nivel_bateria ssn:hasValue "58"^^xsd:int ;
+	a medicion:num_nivel_bateria .

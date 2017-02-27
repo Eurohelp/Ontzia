@@ -1,0 +1,19 @@
+# Las aperturas de un contenedor, ordenadas por fecha
+
+PREFIX medicion: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/medicion/>
+PREFIX contenedor: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/contenedor/>
+PREFIX ssn: <http://purl.oclc.org/NET/ssnx/ssn#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?date ?aperturas 
+WHERE { 
+    # Fecha y contenedor
+    ?obs ssn:observationSamplingTime ?date .
+    ?obs ssn:observedBy contenedor:279 .  
+
+    # aperturas
+    ?obs ssn:observationResult ?num_aperturas .
+    ?num_aperturas rdf:type medicion:num_aperturas .
+    ?num_aperturas ssn:hasValue ?aperturas .
+}
+ORDER BY ?date

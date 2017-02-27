@@ -10,33 +10,26 @@ contenedor:279 a ssn:SensingDevice .
 
 # observacion: id contenedor + fecha
 # las mediciones individuales se obtienen juntando el id observacion con la medicion
-observacion:279-2014-03-01 a ssn:Observation ; 
+observacion:279-2014-05-01 a ssn:Observation ; 
 	ssn:observedBy contenedor:279 ;
-	ssn:observationSamplingTime	"2014-03-01"^^xsd:date ;
-	ssn:observationResult observacion:279-2014-03-01-num_kg_depositado ;
-	ssn:observationResult observacion:279-2014-03-01-num_m3_depositado ;
-	ssn:observationResult observacion:279-2014-03-01-num_nivel_llenado ;
-	ssn:observationResult observacion:279-2014-03-01-num_aperturas ;
-	ssn:observationResult observacion:279-2014-03-01-num_nivel_bateria .
+	ssn:observationSamplingTime	"2014-05-01"^^xsd:date ;
+	ssn:observationResult observacion:279-2014-05-01-num_kg_depositado ;
+	ssn:observationResult observacion:279-2014-05-01-num_m3_depositado ;
+	ssn:observationResult observacion:279-2014-05-01-num_nivel_llenado ;
+	ssn:observationResult observacion:279-2014-05-01-num_aperturas ;
+	ssn:observationResult observacion:279-2014-05-01-num_nivel_bateria .
 
-observacion:279-2014-03-01-num_kg_depositado ssn:hasValue "3.969"^^xsd:double ;
+observacion:279-2014-05-01-num_kg_depositado ssn:hasValue "2.790"^^xsd:double ;
 	a medicion:num_kg_depositado .
 
-observacion:279-2014-03-01-num_m3_depositado ssn:hasValue "913"^^xsd:int ;
+observacion:279-2014-05-01-num_m3_depositado ssn:hasValue "581"^^xsd:int ;
 	a medicion:num_m3_depositado .
 
-observacion:279-2014-03-01-num_nivel_llenado ssn:hasValue "14"^^xsd:int ;
+observacion:279-2014-05-01-num_nivel_llenado ssn:hasValue "21"^^xsd:int ;
 	a medicion:num_nivel_llenado .
 
-observacion:279-2014-03-01-num_aperturas ssn:hasValue "1.476"^^xsd:double ;
+observacion:279-2014-05-01-num_aperturas ssn:hasValue "1.813"^^xsd:double ;
 	a medicion:num_aperturas .
 
-observacion:279-2014-03-01-num_nivel_bateria ssn:hasValue "23"^^xsd:int ;
+observacion:279-2014-05-01-num_nivel_bateria ssn:hasValue "34"^^xsd:int ;
 	a medicion:num_nivel_bateria .
-
-
-
-
-
-
-

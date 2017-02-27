@@ -1,0 +1,38 @@
+# Todas las mediciones de una fecha
+
+PREFIX medicion: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/medicion/>
+PREFIX ssn: <http://purl.oclc.org/NET/ssnx/ssn#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+
+SELECT ?contenedor ?llenado_kg ?llenado_m3 ?nivel_llenado ?aperturas ?nivel_bateria
+WHERE { 
+    # Fecha y contenedor
+    ?obs ssn:observationSamplingTime "2014-03-01"^^xsd:date .
+    ?obs ssn:observedBy ?contenedor .     
+    
+    # llenado en kg
+    ?obs ssn:observationResult ?num_kg_depositado .
+    ?num_kg_depositado rdf:type medicion:num_kg_depositado .
+    ?num_kg_depositado ssn:hasValue ?llenado_kg .
+
+    # llenado en metros cubicos
+    ?obs ssn:observationResult ?num_m3_depositado .
+    ?num_m3_depositado rdf:type medicion:num_m3_depositado .
+    ?num_m3_depositado ssn:hasValue ?llenado_m3 .
+
+    # nivel llenado
+    ?obs ssn:observationResult ?num_nivel_llenado .
+    ?num_nivel_llenado rdf:type medicion:num_nivel_llenado .
+    ?num_nivel_llenado ssn:hasValue ?nivel_llenado .
+
+    # aperturas
+    ?obs ssn:observationResult ?num_aperturas .
+    ?num_aperturas rdf:type medicion:num_aperturas .
+    ?num_aperturas ssn:hasValue ?aperturas .
+
+    # nivel bateria
+    ?obs ssn:observationResult ?num_nivel_bateria .
+    ?num_nivel_bateria rdf:type medicion:num_nivel_bateria .
+    ?num_nivel_bateria ssn:hasValue ?nivel_bateria
+}

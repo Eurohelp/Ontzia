@@ -21,6 +21,6 @@ WHERE {
     ?num_aperturas rdf:type medicion:num_aperturas .
     ?num_aperturas ssn:hasValue ?aperturas .
 
-    FILTER (?llenado_kg > "3.0"^^xsd:double)
+    FILTER (?llenado_kg > 3000)
 }
 ORDER BY ?aperturas

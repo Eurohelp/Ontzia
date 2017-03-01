@@ -1,0 +1,1901 @@
+@prefix ns0: <http://purl.oclc.org/NET/ssnx/ssn#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3419"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "14"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "596"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-12-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "8"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-12-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2775"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "832"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2341"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "19"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1815"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1195"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "207"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "572"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "121"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-06-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1642"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-10-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1558"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-10-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "86"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "31"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "70"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "734"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "83"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "10"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1635"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2430"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-08-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2218"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2470"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "52"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "43"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "5196"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1465"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "47"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3227"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-09-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-09-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2346"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "43"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "126"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "69"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "427"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3258"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1834"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "145"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "364"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "230"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "290"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "54"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2499"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "69"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2570"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1928"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1347"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "484"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "988"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "7"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "296"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-04-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-04-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "42"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2298"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1118"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1315"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "30"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-03-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-05-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1631"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "91"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "791"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4424"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-11-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4962"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-11-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "66"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "46"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "795"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-07-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "18"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-01-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2790"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1368"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2333"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2406"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "272"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "982"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "27"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "99"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "238"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "47"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "1"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4469"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4882"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "87"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2618"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "7"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2795"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "46"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3734"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2081"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> a ns0:SensingDevice .
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "55"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1503"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "509"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "354"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2894"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "94"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "39"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-05-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "32"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2293"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-03-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1039"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "584"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2394"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2460"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "374"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-12-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-08-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3696"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "43"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2651"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2356"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1014"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4597"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1167"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-12-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3789"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "12"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1193"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2147"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2411"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1487"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-10-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "21"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "473"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "760"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "59"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "79"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "124"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "33"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-06-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "46"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2443"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4983"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "22"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2343"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "51"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "80"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "78"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1863"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "1"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-04-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "97"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "81"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "591"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "374"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4572"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3148"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "5309"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4370"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-10-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1431"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1029"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "44"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "89"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1140"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3796"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2610"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1774"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "574"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2531"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-08-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "61"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1057"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-03-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "56"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1566"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "817"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-05-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1700"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-12-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1512"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-11-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2296"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "71"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "0"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "88"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2216"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2558"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "53"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2734"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4350"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "52"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-03-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "33"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4007"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2894"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-05-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "51"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2423"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "46"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3041"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "40"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1560"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-09-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3818"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-04-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "54"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1857"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2717"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2725"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "163"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "233"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1730"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-01-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4663"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-07-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2989"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1013"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "98"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "46"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "54"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "549"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1544"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2054"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-04-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "77"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2087"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-12-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "94"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2017-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "52"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1031"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-06-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-06-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-10-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "42"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2585"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "95"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "741"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-08-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "83"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "142"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "88"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-08-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "63"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4579"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "20"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1297"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "50"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "862"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "47"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "96"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "66"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "25"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1474"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2427"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "93"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2375"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "90"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "86"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4502"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "17"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "5077"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2130"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1542"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "60"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "96"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "4"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-05-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "62"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "947"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "21"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "47"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-11-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "22"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-03-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "73"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2070"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4186"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2337"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-01-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "80"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-07-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "35"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "507"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-06-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "12"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2893"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "24"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1243"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "830"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-09-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2096"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "26"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "404"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "94"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-06-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "55"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "8"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "95"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2527"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "49"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2888"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "135"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1224"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "22"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "930"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "89"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "18"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1792"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2929"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1602"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "23"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "56"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1809"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "82"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-04-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "15"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1413"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-12-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-12-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2293"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-05-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "321"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "12"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "410"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1279"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-06-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "31"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "284"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-06-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-06-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-06-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "88"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-03-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1466"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-07-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "27"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-10-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1510"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4809"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-05-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "8"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4810"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-06-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "954"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "86"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-04-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-04-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "4"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1931"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-09-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "61"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-09-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "57"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3177"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1195"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "13"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-08-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4163"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-09-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "40"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "48"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "901"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "51"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1459"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2017-01-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1183"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-02-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "843"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4200"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-01-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-01-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-08-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3626"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-07-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-07-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2447"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-01-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "2"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "3465"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2337"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "87"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-03-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2444"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-08-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "20"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1457"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-08-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "5245"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "614"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-12-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "2"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-10-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2396"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-11-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "12"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-03-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-03-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-05-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-05-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-07-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "70"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1307"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-11-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-11-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-05-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-05-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-12-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "4314"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-01-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1943"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "84"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-01-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1206"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-11-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2015-11-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1619"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-11-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "872"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1233"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-11-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1230"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "9"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-05-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "845"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2017-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2053"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "122"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "1"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-07-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "14"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-01-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "39"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-07-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "85"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-01-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2012-01-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-11-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "23"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-07-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2016-07-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "54"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-03-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2013-03-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "206"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "70"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-07-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "1411"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-04-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "70"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-09-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "26"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "66"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-12-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1401"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-04-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "578"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-09-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "76"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "66"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-09-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "33"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-04-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2081"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "810"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-03-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "2567"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-08-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "1795"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "22"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-09-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "261"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "72"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-04-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "89"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2014-10-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2014-10-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-02-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "2364"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "48"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-02-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "54"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-02-01-num_aperturas>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_aperturas> ;
+  ns0:hasValue "159"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2016-09-01-num_nivel_llenado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_llenado> ;
+  ns0:hasValue "37"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2015-10-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "631"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-06-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "1836"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2012-12-01-num_m3_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_m3_depositado> ;
+  ns0:hasValue "309"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01>
+  ns0:observationResult <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_aperturas>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_nivel_llenado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_nivel_bateria>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_m3_depositado>, <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-08-01-num_kg_depositado> ;
+  ns0:observationSamplingTime "2011-08-01"^^xsd:date ;
+  ns0:observedBy <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/contenedor/261> ;
+  a ns0:Observation .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-10-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2239"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2011-10-01-num_nivel_bateria>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_nivel_bateria> ;
+  ns0:hasValue "41"^^xsd:int .
+
+<http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/observacion/261-2013-02-01-num_kg_depositado>
+  a <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/num_kg_depositado> ;
+  ns0:hasValue "2933"^^xsd:int .

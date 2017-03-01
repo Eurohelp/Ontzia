@@ -1,11 +1,12 @@
 # Las aperturas en los días que el llenado en kg superaba los 3 kg
 
-PREFIX medicion: <http://ec2-54-148-16-180.us-west-2.compute.amazonaws.com/ontzia/medicion/>
+PREFIX medicion: <http://ec2-54-68-122-159.us-west-2.compute.amazonaws.com/ontzia/medicion/>
 PREFIX ssn: <http://purl.oclc.org/NET/ssnx/ssn#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 
 SELECT ?contenedor ?llenado_kg ?aperturas
+FROM <http://local.virt/DAV/home/ontzia/rdf_sink/historicoContenedor261.rdf>
 WHERE { 
     # Fecha y contenedor
     ?obs ssn:observationSamplingTime ?date .
